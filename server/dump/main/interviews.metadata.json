@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"65e140cce5f34281a7816fc2c80964b0","collectionName":"interviews","type":"collection"}
