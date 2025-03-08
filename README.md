@@ -1,5 +1,13 @@
 _the original repo was managed by RMIT-Vietnam-Teaching and is private_
 
+## Contributors
+
+<a href="https://github.com/tom474" target="_blank">Cuong Tran (tom474)</a>
+
+<a href="https://github.com/locoioioi" target="_blank">Loc Truong (locoioioi)</a>
+
+<a href="https://github.com/khoileuser" target="_blank">Khoi Le (khoileuser)</a>
+
 # MatchWorks
 
 A streamlined Job Application System for candidates to apply for job easily.
