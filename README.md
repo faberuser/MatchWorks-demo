@@ -37,7 +37,7 @@ _more details on Docker deployment please refer to according client or server RE
 
 ## Live Public Demo
 
-Client: <a href="https://matchworks-client.k-clowd.top/" target="_blank">Client Build</a>
+Client: <a href="https://matchworks.k-clowd.top/" target="_blank">Client Build</a>
 
 Server: <a href="https://matchworks-server.k-clowd.top/" target="_blank">Server Build</a>
 
