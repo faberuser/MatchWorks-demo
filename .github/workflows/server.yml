@@ -50,8 +50,8 @@ jobs:
             - name: Login to Docker Hub
               uses: docker/login-action@v3
               with:
-                  username: redacted
-                  password: redacted
+                  username: $DOCKER_HUB_USERNAME
+                  password: $DOCKER_HUB_PASSWORD
 
             - name: Set up QEMU
               uses: docker/setup-qemu-action@v3
@@ -71,4 +71,4 @@ jobs:
 
             - name: Update Portainer Stack
               run: |
-                  curl -X POST "redacted"
+                  curl -X POST "$PORTAINER_STACK_WEBHOOK_URL"
